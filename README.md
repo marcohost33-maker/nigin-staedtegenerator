@@ -1,7 +1,7 @@
 <h1 align="center">NIGIN · Städtegenerator</h1>
 
 <p align="center"><b><a href="https://marcohost33-maker.github.io/nigin-staedtegenerator/NIGIN_Staedtegenerator_R9_4_3.html">▶ Im Browser spielen</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/marcohost33-maker/nigin-staedtegenerator/releases/download/r9.4.3/NIGIN_Staedtegenerator_R9_4_3.html">⬇ HTML herunterladen</a></b> &nbsp;·&nbsp; Version R9.4.3 · Vorschau</p>
-<p align="center"><sub>Eine Datei · läuft offline · ohne Konto · keine Daten verlassen dein Gerät</sub></p>
+<p align="center"><sub>Eine Datei · läuft offline · ohne Konto · die Welt sendet keine Daten</sub></p>
 
 Der **Städtegenerator** baut eine grosse, synthetische Stadt mit Fluss, Brücken und Strassennetz. Du siehst sie als **2.5D-Stadt**, als **Comic** oder als **Stadtplan**, gestaltest sie in der Hex-Werkstatt weiter und setzt mit der Szenenregie Tageszeit, Wetter und Kamerablick. Dazu kommen Missionen sowie ein Prüflabor für Strassennetz und Fahrspuren. Projekte lassen sich als Datei exportieren und wieder importieren.
 
@@ -23,8 +23,9 @@ Der **Städtegenerator** baut eine grosse, synthetische Stadt mit Fluss, Brücke
 
 ## Datenschutz
 
-- Die Welt läuft vollständig lokal; die Datei baut keine Netzwerkverbindungen auf und lädt nichts nach.
-- Es wird nichts im Browser gespeichert; Projekte sicherst du selbst als Datei.
+- Die Welt läuft vollständig lokal; die Datei lädt nichts nach und baut von sich aus keine Netzwerkverbindungen auf.
+- Beim Spielen über *Im Browser spielen* liefert GitHub Pages die Datei aus und verarbeitet dabei, wie jeder Webserver, Zugriffsdaten (etwa die IP-Adresse). Mit der heruntergeladenen Datei entfällt auch das.
+- Es wird nichts im Browser gespeichert; Projekte sicherst du selbst als Datei. Einige Fachhinweise enthalten Links (z. B. doi.org); sie öffnen erst auf deinen Klick eine Webseite.
 - Keine Konten, keine Cookies, keine Analyse oder Werbung.
 
 ## Prüfsumme
