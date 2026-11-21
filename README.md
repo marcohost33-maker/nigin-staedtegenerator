@@ -18,7 +18,8 @@ Der **Städtegenerator** baut eine grosse, synthetische Stadt mit Fluss, Brücke
 
 ## Was es ist und was (noch) nicht
 
-- Vorschau: Prüf- und Diagnoseanzeigen aus der Entwicklung sind noch sichtbar.
+- Vorschau: Prüf- und Diagnoseanzeigen aus der Entwicklung sind noch sichtbar, ebenso ältere interne Versionsbezeichnungen (R7 bis R9.4).
+- Auf dem Handy überdeckt der Knopf *Prüflabor* einige Kameraknöpfe; das wird in der nächsten Version behoben.
 - Strassen- und Kurvenhinweise sind Näherungen, keine Verkehrs-, GIS- oder Bauzertifizierung.
 
 ## Datenschutz
