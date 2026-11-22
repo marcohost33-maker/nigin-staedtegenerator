@@ -37,6 +37,8 @@ Die Dateien in diesem Repository und im Release sind byte-gleich. SHA-256 (auch 
 2d21f1ee93046c75c60f5c4acc3cf45723a50d5805470fecb317e0dedc5034a4  NIGIN_Staedtegenerator_R9_4_3.html
 ```
 
+Was sich je Version geändert hat, steht in [CHANGELOG.md](CHANGELOG.md).
+
 ## Lizenz
 
 Kostenlos spielen und unverändert nicht-kommerziell weitergeben ist erlaubt, mit Herkunftsangabe. Alles Weitere regelt die [NIGIN Spielnutzungs-Lizenz](LICENSE.md).
