@@ -1,6 +1,6 @@
 <h1 align="center">NIGIN · Städtegenerator</h1>
 
-<p align="center"><b><a href="https://marcohost33-maker.github.io/nigin-staedtegenerator/NIGIN_Staedtegenerator_R9_4_3.html">▶ Im Browser spielen</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/marcohost33-maker/nigin-staedtegenerator/releases/download/r9.4.3/NIGIN_Staedtegenerator_R9_4_3.html">⬇ HTML herunterladen</a></b> &nbsp;·&nbsp; Version R9.4.3 · Vorschau</p>
+<p align="center"><b><a href="https://marcohost33-maker.github.io/nigin-staedtegenerator/NIGIN_Staedtegenerator_R9_4_4.html">▶ Im Browser spielen</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/marcohost33-maker/nigin-staedtegenerator/releases/download/r9.4.4/NIGIN_Staedtegenerator_R9_4_4.html">⬇ HTML herunterladen</a></b> &nbsp;·&nbsp; Version R9.4.4 · Vorschau</p>
 <p align="center"><sub>Eine Datei · läuft offline · ohne Konto · die Welt sendet keine Daten</sub></p>
 
 Der **Städtegenerator** baut eine grosse, synthetische Stadt mit Fluss, Brücken und Strassennetz. Du siehst sie als **2.5D-Stadt**, als **Comic** oder als **Stadtplan**, gestaltest sie in der Hex-Werkstatt weiter und setzt mit der Szenenregie Tageszeit, Wetter und Kamerablick. Dazu kommen Missionen sowie ein Prüflabor für Strassennetz und Fahrspuren. Projekte lassen sich als Datei exportieren und wieder importieren.
@@ -34,7 +34,7 @@ Der **Städtegenerator** baut eine grosse, synthetische Stadt mit Fluss, Brücke
 Die Dateien in diesem Repository und im Release sind byte-gleich. SHA-256 (auch in `SHA256SUMS.txt`):
 
 ```
-2d21f1ee93046c75c60f5c4acc3cf45723a50d5805470fecb317e0dedc5034a4  NIGIN_Staedtegenerator_R9_4_3.html
+aace11a0c7f7d4bb983c784d21a1a1a2fd86794a2bebf523370cc0393d26eee3  NIGIN_Staedtegenerator_R9_4_4.html
 ```
 
 Was sich je Version geändert hat, steht in [CHANGELOG.md](CHANGELOG.md).
